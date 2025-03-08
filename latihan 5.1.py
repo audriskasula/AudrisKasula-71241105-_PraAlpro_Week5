@@ -4,4 +4,6 @@ def cek_angka(bil1, bil2, bil3) :
             return True
         else : return False
     else : return False
+
+print(cek_angka(1, 2, 3))
 print(cek_angka(1, 2, 2))
